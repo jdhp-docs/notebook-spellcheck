@@ -5,9 +5,9 @@
 
 .. include:: meta.rst
 
-====
-TODO_DOCUMENT_TITLE
-====
+==================================================================
+La correction orthographique avec les notebooks Jupyter et IPython
+==================================================================
 
 :Auteur: |AUTHORS|
 :Contact: |CONTACT|
